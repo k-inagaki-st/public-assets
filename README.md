@@ -6,4 +6,4 @@
 
 | 用途 | パス | raw URL |
 |------|------|---------|
-| 事務依頼総合フォーム Web ハブ | `favicons/office-request-form.png` | https://raw.githubusercontent.com/Ke1plus/public-assets/main/favicons/office-request-form.png |
+| 事務依頼総合フォーム Web ハブ | `favicons/office-request-form.png` | https://raw.githubusercontent.com/k-inagaki-st/public-assets/main/favicons/office-request-form.png |
